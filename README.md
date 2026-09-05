@@ -183,13 +183,13 @@ const gourav: Engineer = {
 
 <br/>
 
-<a href="https://codegang.online"><img src="https://img.shields.io/badge/HIRE%20CODEGANG-00F0FF?style=for-the-badge&logo=rocket&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
+<a href="https://codegang.online"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20HIRE%20CODEGANG-00F0FF?style=for-the-badge&labelColor=00F0FF" height="42" /></a>
 &nbsp;
-<a href="mailto:codegang0077@gmail.com"><img src="https://img.shields.io/badge/START%20A%20PROJECT-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
+<a href="mailto:codegang0077@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20START%20A%20PROJECT-FF2E97?style=for-the-badge&labelColor=FF2E97" height="42" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/gourav-chakraborty-412349204/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-B026FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
+<a href="https://www.linkedin.com/in/gourav-chakraborty-412349204/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-B026FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=B026FF" height="42" /></a>
 &nbsp;
-<a href="https://orcid.org/0009-0002-4247-0513"><img src="https://img.shields.io/badge/RESEARCH-B026FF?style=for-the-badge&logo=orcid&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
+<a href="https://orcid.org/0009-0002-4247-0513"><img src="https://img.shields.io/badge/RESEARCH%20%C2%B7%20ORCID-7B2FF7?style=for-the-badge&labelColor=7B2FF7" height="42" /></a>
 
 <br/><br/>
 

@@ -30,20 +30,41 @@
 
 <!-- ══════════════════════════════ ABOUT ══════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`whoami`
+## ▸&nbsp; `whoami`
+
+<table>
+<tr>
+<td width="56%" valign="top">
 
 ```ts
-const gourav: Engineer = {
-  role:      "Founder & CEO @ CodeGang · Full-Stack & AI/ML Engineer",
-  focus:     ["Production AI / RAG", "Multi-tenant SaaS", "Data Platforms", "DevOps"],
-  stack:     ["TypeScript", "Python", "Rust", "C++", "React/Next", "FastAPI"],
-  data:      ["Databricks", "Spark", "Airflow", "ETL / ELT Pipelines"],
-  cloud:     ["AWS", "GCP", "Azure", "Docker", "Kubernetes", "Terraform"],
-  shippedFor: "Fortune 50 enterprises across 5 continents",
-  philosophy: "Engineers, not account managers — the person on your first call writes the code.",
-  currently:  "Scaling codegang.online · building AI systems that survive production",
+const gourav = {
+  role:    "Founder & CEO @ CodeGang",
+  craft:   ["Full-Stack", "AI/ML", "DevOps", "Data"],
+  stack:   ["TypeScript", "Python", "Rust", "Next.js"],
+  data:    ["Databricks", "Spark", "Airflow", "Kafka"],
+  cloud:   ["AWS", "GCP", "Azure", "K8s", "Terraform"],
+  shipped: "Fortune 50 · 5 continents",
+  motto:   "Engineers, not account managers.",
 };
 ```
+
+</td>
+<td width="44%" valign="top">
+
+**AT A GLANCE**
+
+`500+`&nbsp; projects shipped
+`100+`&nbsp; clients served
+`20+`&nbsp;&nbsp; systems live in production
+`5`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; continents — BR · AU · IN · US · EU
+
+**WHAT I ACTUALLY BUILD**
+
+Production AI &amp; RAG platforms · multi-tenant SaaS · real-time data pipelines &amp; lakehouses · ERP / HMS suites · cross-platform mobile.
+
+</td>
+</tr>
+</table>
 
 > **`>_`** &nbsp; I build systems that go **live**, not demos that go stale.
 > From real-time data pipelines and Databricks lakehouses to RAG platforms, ERP suites and
@@ -53,7 +74,7 @@ const gourav: Engineer = {
 
 <!-- ══════════════════════════════ STACK ══════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> &nbsp;`tech --stack`
+## ▸&nbsp; `tech --stack`
 
 <div align="center">
 
@@ -92,7 +113,7 @@ const gourav: Engineer = {
 
 <!-- ══════════════════════════════ STATS ══════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;`git log --stat`
+## ▸&nbsp; `git log --stat`
 
 <div align="center">
 
@@ -129,7 +150,7 @@ const gourav: Engineer = {
 
 <!-- ══════════════════════════════ PROJECTS ══════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;`ls -la ./featured`
+## ▸&nbsp; `ls -la ./featured`
 
 <div align="center">
 
@@ -177,19 +198,19 @@ const gourav: Engineer = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> &nbsp;`connect --now`
+## ▸&nbsp; `connect --now`
 
 **Got a system that needs to actually ship? Let's talk.**
 
 <br/>
 
-<a href="https://codegang.online"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20HIRE%20CODEGANG-00F0FF?style=for-the-badge&labelColor=00F0FF" height="42" /></a>
+<a href="https://codegang.online"><img src="https://img.shields.io/badge/HIRE%20CODEGANG-00F0FF?style=for-the-badge&logo=rocket&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
 &nbsp;
-<a href="mailto:codegang0077@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20START%20A%20PROJECT-FF2E97?style=for-the-badge&labelColor=FF2E97" height="42" /></a>
+<a href="mailto:codegang0077@gmail.com"><img src="https://img.shields.io/badge/START%20A%20PROJECT-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/gourav-chakraborty-412349204/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-B026FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=B026FF" height="42" /></a>
+<a href="https://www.linkedin.com/in/gourav-chakraborty-412349204/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-B026FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
 &nbsp;
-<a href="https://orcid.org/0009-0002-4247-0513"><img src="https://img.shields.io/badge/RESEARCH%20%C2%B7%20ORCID-7B2FF7?style=for-the-badge&labelColor=7B2FF7" height="42" /></a>
+<a href="https://orcid.org/0009-0002-4247-0513"><img src="https://img.shields.io/badge/RESEARCH-B026FF?style=for-the-badge&logo=orcid&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
 
 <br/><br/>
 

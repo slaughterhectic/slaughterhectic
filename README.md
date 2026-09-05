@@ -1,7 +1,7 @@
 <!-- ══════════════════════════════ HEADER ══════════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:7B2FF7,55:00F0FF,100:FF2E97&text=GOURAV%20CHAKRABORTY&fontColor=FFFFFF&fontSize=54&fontAlignY=34&desc=Founder%20%26%20CEO%20%40%20CodeGang%20%C2%B7%20Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20DevOps%20%C2%B7%20Data%20Engineering&descAlignY=52&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,30:B026FF,70:00F0FF,100:FF2E97&text=GOURAV%20CHAKRABORTY&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Founder%20%26amp%3B%20CEO%20%40%20CodeGang%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20DevOps%20%E2%80%A2%20Data&descAlignY=55&descSize=17&animation=fadeIn&stroke=00F0FF&strokeWidth=1" />
 
 <a href="https://codegang.online">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&multiline=false&random=false&width=900&height=60&lines=%3E+Founder+%26+CEO+%40+codegang.online;%3E+Full-Stack+Engineer+%7C+AI%2FML+Systems;%3E+DevOps+%7C+Databricks+%7C+Data+Pipelines;%3E+Shipping+production+software+for+Fortune+50;%3E+Problem+Solving+%3E+Everything+Else" alt="Typing SVG" />

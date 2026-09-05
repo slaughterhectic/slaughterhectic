@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="448" viewBox="0 0 920 448" fill="none" role="img" aria-label="whoami terminal">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0A0D13"/><stop offset="55%" stop-color="#0D1117"/><stop offset="100%" stop-color="#120A1C"/></linearGradient>
+<linearGradient id="edge" gradientUnits="userSpaceOnUse" x1="-700" y1="0" x2="0" y2="448">
+<stop offset="0%" stop-color="#00F0FF" stop-opacity="0"/><stop offset="25%" stop-color="#00F0FF"/><stop offset="50%" stop-color="#B026FF"/><stop offset="75%" stop-color="#FF2E97"/><stop offset="100%" stop-color="#FF2E97" stop-opacity="0"/>
+<animate attributeName="x1" values="-700;920" dur="4.5s" repeatCount="indefinite"/>
+<animate attributeName="x2" values="0;1620" dur="4.5s" repeatCount="indefinite"/>
+</linearGradient>
+<radialGradient id="blobA"><stop offset="0%" stop-color="#B026FF" stop-opacity="0.30"/><stop offset="100%" stop-color="#B026FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="blobB"><stop offset="0%" stop-color="#00F0FF" stop-opacity="0.24"/><stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="26"/></filter>
+<clipPath id="card"><rect x="2" y="2" width="916" height="444" rx="16"/></clipPath>
+<clipPath id="l0"><rect x="38" y="82" width="0" height="40"><animate attributeName="width" values="0;0;94.3;94.3;0" keyTimes="0;0.0000;0.0679;0.9214;1" dur="14.00s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+<clipPath id="l1"><rect x="38" y="122" width="0" height="40"><animate attributeName="width" values="0;0;539.2;539.2;0" keyTimes="0;0.0964;0.1643;0.9214;1" dur="14.00s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+<clipPath id="l2"><rect x="38" y="162" width="0" height="40"><animate attributeName="width" values="0;0;162.7;162.7;0" keyTimes="0;0.1929;0.2607;0.9214;1" dur="14.00s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+<clipPath id="l3"><rect x="38" y="202" width="0" height="40"><animate attributeName="width" values="0;0;527.8;527.8;0" keyTimes="0;0.2893;0.3571;0.9214;1" dur="14.00s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+<clipPath id="l4"><rect x="38" y="242" width="0" height="40"><animate attributeName="width" values="0;0;162.7;162.7;0" keyTimes="0;0.3857;0.4536;0.9214;1" dur="14.00s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+<clipPath id="l5"><rect x="38" y="282" width="0" height="40"><animate attributeName="width" values="0;0;710.4;710.4;0" keyTimes="0;0.4821;0.5500;0.9214;1" dur="14.00s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+<clipPath id="l6"><rect x="38" y="322" width="0" height="40"><animate attributeName="width" values="0;0;151.3;151.3;0" keyTimes="0;0.5786;0.6464;0.9214;1" dur="14.00s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+<clipPath id="l7"><rect x="38" y="362" width="0" height="40"><animate attributeName="width" values="0;0;390.9;390.9;0" keyTimes="0;0.6750;0.7429;0.9214;1" dur="14.00s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+</defs>
+<rect x="2" y="2" width="916" height="444" rx="16" fill="url(#bg)"/>
+<g clip-path="url(#card)">
+<ellipse cx="120" cy="60" rx="200" ry="120" fill="url(#blobA)" filter="url(#soft)"><animate attributeName="cx" values="120;520;120" dur="16s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="800" cy="400" rx="220" ry="130" fill="url(#blobB)" filter="url(#soft)"><animate attributeName="cx" values="800;420;800" dur="16s" repeatCount="indefinite"/></ellipse>
+<rect x="0" y="-60" width="920" height="60" fill="#00F0FF" opacity="0.045"><animate attributeName="y" values="-60;448" dur="7s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="2" y="2" width="916" height="444" rx="16" fill="none" stroke="url(#edge)" stroke-width="2"/>
+<circle cx="40" cy="40" r="6.5" fill="#FF2E97" opacity="0.9"/>
+<circle cx="64" cy="40" r="6.5" fill="#FFB020" opacity="0.9"/>
+<circle cx="88" cy="40" r="6.5" fill="#00F0FF" opacity="0.9"/>
+<text x="122" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#7C8CA0">gourav@codegang: ~ /whoami</text>
+<line x1="24" y1="68" x2="896" y2="68" stroke="#1E2734" stroke-width="1"/>
+<text clip-path="url(#l0)" x="40" y="108" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace" font-size="19" xml:space="preserve" filter="url(#glow)"><tspan fill="#00F0FF" font-weight="700">$ </tspan><tspan fill="#B026FF" font-weight="700">whoami</tspan></text>
+<text clip-path="url(#l1)" x="40" y="148" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace" font-size="19" xml:space="preserve" filter="url(#glow)"><tspan fill="#E6EDF3">Gourav Chakraborty</tspan><tspan fill="#7C8CA0">  —  </tspan><tspan fill="#00F0FF" font-weight="700">Founder &amp; CEO @ CodeGang</tspan></text>
+<text clip-path="url(#l2)" x="40" y="188" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace" font-size="19" xml:space="preserve" filter="url(#glow)"><tspan fill="#00F0FF" font-weight="700">$ </tspan><tspan fill="#B026FF" font-weight="700">cat </tspan><tspan fill="#E6EDF3">role.txt</tspan></text>
+<text clip-path="url(#l3)" x="40" y="228" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace" font-size="19" xml:space="preserve" filter="url(#glow)"><tspan fill="#E6EDF3">Full-Stack</tspan><tspan fill="#7C8CA0"> · </tspan><tspan fill="#E6EDF3">AI/ML</tspan><tspan fill="#7C8CA0"> · </tspan><tspan fill="#E6EDF3">DevOps</tspan><tspan fill="#7C8CA0"> · </tspan><tspan fill="#E6EDF3">Data Engineering</tspan></text>
+<text clip-path="url(#l4)" x="40" y="268" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace" font-size="19" xml:space="preserve" filter="url(#glow)"><tspan fill="#00F0FF" font-weight="700">$ </tspan><tspan fill="#B026FF" font-weight="700">ls </tspan><tspan fill="#E6EDF3">~/shipped</tspan></text>
+<text clip-path="url(#l5)" x="40" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace" font-size="19" xml:space="preserve" filter="url(#glow)"><tspan fill="#FF2E97" font-weight="700">500+</tspan><tspan fill="#7C8CA0"> projects   </tspan><tspan fill="#FF2E97" font-weight="700">100+</tspan><tspan fill="#7C8CA0"> clients   </tspan><tspan fill="#FF2E97" font-weight="700">20+</tspan><tspan fill="#7C8CA0"> live systems   </tspan><tspan fill="#FF2E97" font-weight="700">5</tspan><tspan fill="#7C8CA0"> continents</tspan></text>
+<text clip-path="url(#l6)" x="40" y="348" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace" font-size="19" xml:space="preserve" filter="url(#glow)"><tspan fill="#00F0FF" font-weight="700">$ </tspan><tspan fill="#B026FF" font-weight="700">echo </tspan><tspan fill="#E6EDF3">$MOTTO</tspan></text>
+<text clip-path="url(#l7)" x="40" y="388" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace" font-size="19" xml:space="preserve" filter="url(#glow)"><tspan fill="#00F0FF" font-weight="700">"Engineers, not account managers."</tspan></text>
+<rect width="11" height="21" rx="1.5" fill="#00F0FF" filter="url(#glow)">
+<animate attributeName="x" values="40.0;131.3;40.0;576.2;40.0;199.7;40.0;564.8;40.0;199.7;40.0;747.4;40.0;188.3;40.0;427.9;427.9" keyTimes="0.0000;0.0679;0.0964;0.1643;0.1929;0.2607;0.2893;0.3571;0.3857;0.4536;0.4821;0.5500;0.5786;0.6464;0.6750;0.7429;1" dur="14.00s" repeatCount="indefinite" calcMode="linear"/>
+<animate attributeName="y" values="92.0;92.0;132.0;132.0;172.0;172.0;212.0;212.0;252.0;252.0;292.0;292.0;332.0;332.0;372.0;372.0;372.0" keyTimes="0.0000;0.0679;0.0964;0.1643;0.1929;0.2607;0.2893;0.3571;0.3857;0.4536;0.4821;0.5500;0.5786;0.6464;0.6750;0.7429;1" dur="14.00s" repeatCount="indefinite" calcMode="discrete"/>
+<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.05s" repeatCount="indefinite"/>
+</rect>
+</svg>

@@ -53,10 +53,10 @@ const gourav = {
 
 **AT A GLANCE**
 
-`500+`&nbsp; projects shipped
-`100+`&nbsp; clients served
-`20+`&nbsp;&nbsp; systems live in production
-`5`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; continents — BR · AU · IN · US · EU
+- **500+** projects shipped
+- **100+** clients served
+- **20+** systems live in production
+- **5** continents — BR · AU · IN · US · EU
 
 **WHAT I ACTUALLY BUILD**
 

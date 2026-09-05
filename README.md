@@ -32,39 +32,11 @@
 
 ## ▸&nbsp; `whoami`
 
-<table>
-<tr>
-<td width="56%" valign="top">
+<div align="center">
 
-```ts
-const gourav = {
-  role:    "Founder & CEO @ CodeGang",
-  craft:   ["Full-Stack", "AI/ML", "DevOps", "Data"],
-  stack:   ["TypeScript", "Python", "Rust", "Next.js"],
-  data:    ["Databricks", "Spark", "Airflow", "Kafka"],
-  cloud:   ["AWS", "GCP", "Azure", "K8s", "Terraform"],
-  shipped: "Fortune 50 · 5 continents",
-  motto:   "Engineers, not account managers.",
-};
-```
+<img width="100%" alt="whoami terminal" src="https://raw.githubusercontent.com/slaughterhectic/slaughterhectic/main/assets/whoami.svg" />
 
-</td>
-<td width="44%" valign="top">
-
-**AT A GLANCE**
-
-- **500+** projects shipped
-- **100+** clients served
-- **20+** systems live in production
-- **5** continents — BR · AU · IN · US · EU
-
-**WHAT I ACTUALLY BUILD**
-
-Production AI &amp; RAG platforms · multi-tenant SaaS · real-time data pipelines &amp; lakehouses · ERP / HMS suites · cross-platform mobile.
-
-</td>
-</tr>
-</table>
+</div>
 
 > **`>_`** &nbsp; I build systems that go **live**, not demos that go stale.
 > From real-time data pipelines and Databricks lakehouses to RAG platforms, ERP suites and

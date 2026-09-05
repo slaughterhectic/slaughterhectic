@@ -11,6 +11,7 @@
 
 <!-- ── SOCIAL / CONTACT ── -->
 <a href="https://codegang.online"><img src="https://img.shields.io/badge/CODEGANG.ONLINE-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/gourav-chakraborty-412349204/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117" /></a>
 <a href="mailto:codegang0077@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97&labelColor=0D1117" /></a>
 <a href="https://orcid.org/0009-0002-4247-0513"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=B026FF&labelColor=0D1117" /></a>
 <a href="https://instagram.com/codegang0077"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=FF2E97&labelColor=0D1117" /></a>
@@ -185,6 +186,8 @@ const gourav: Engineer = {
 <a href="https://codegang.online"><img src="https://img.shields.io/badge/HIRE%20CODEGANG-00F0FF?style=for-the-badge&logo=rocket&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
 &nbsp;
 <a href="mailto:codegang0077@gmail.com"><img src="https://img.shields.io/badge/START%20A%20PROJECT-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gourav-chakraborty-412349204/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-B026FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
 &nbsp;
 <a href="https://orcid.org/0009-0002-4247-0513"><img src="https://img.shields.io/badge/RESEARCH-B026FF?style=for-the-badge&logo=orcid&logoColor=0D1117&labelColor=0D1117" height="42" /></a>
 
